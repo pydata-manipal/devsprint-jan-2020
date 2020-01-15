@@ -9,6 +9,10 @@ https://www.digitalocean.com/community/tutorials/how-to-use-git-a-reference-guid
 
 https://rogerdudler.github.io/git-guide/
 
+## Agenda
+Prerequisites: Please come with Git already installed.
+TBD
+
 ## Suggested Organizations/Projects (in no particular order):
 
 | Organization Name | Website                              | Contributing Guide                                                                                                   |
