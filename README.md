@@ -20,3 +20,4 @@ TBD
 | Pandas            | https://github.com/pandas-dev/pandas | https://pandas-docs.github.io/pandas-docs-travis/development/contributing.html                                       |
 | Matplotlib        | https://matplotlib.org/              | https://matplotlib.org/devdocs/devel/contributing.html                                                               |
 | Django            | https://www.djangoproject.com/       |  https://docs.djangoproject.com/en/dev/internals/contributing/  https://code.djangoproject.com/wiki/SummerOfCode2020 |
+|Checker Framework  | https://checkerframework.org/        | https://rawgit.com/typetools/checker-framework/master/docs/developer/gsoc-ideas.html|
