@@ -27,4 +27,5 @@ TBD
 |lenskit(rec system)  |https://lenskit.org/  | https://github.com/lenskit/lkpy
 |Submitty  | https://submitty.org/       | https://submitty.org/developer/how_to_contribute
 |NumPy  |https://numpy.org/     | https://docs.scipy.org/doc/numpy/dev/
+|Redash | https://redash.io/    |https://github.com/getredash/redash/blob/master/CONTRIBUTING.md |
 |Theano |https://github.com/Theano/Theano |http://deeplearning.net/software/theano/dev_start_guide.html
