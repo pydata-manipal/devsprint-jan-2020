@@ -22,3 +22,4 @@ TBD
 | Django            | https://www.djangoproject.com/       |  https://docs.djangoproject.com/en/dev/internals/contributing/  https://code.djangoproject.com/wiki/SummerOfCode2020 |
 |Checker Framework  | https://checkerframework.org/        | https://rawgit.com/typetools/checker-framework/master/docs/developer/gsoc-ideas.html|
 |PostgreSQL  | https://www.postgresql.org        | https://www.postgresql.org/developer/summerofcode/|
+|SymPy  | https://sympy.org/        | https://docs.sympy.org/1.5.1/guide.html#contributing
