@@ -19,7 +19,7 @@ https://rogerdudler.github.io/git-guide/
 |---------------|-------------------|
 |9am - 9:45am  |Git basics         |
 |10am - 11am  | Session by Aman Sharma    |
-|11am - 12pm    | Choose an org, join mailing lists etc   |
+|11am - 12pm  |Choose an org, join mailing lists etc|
 |12pm - 1pm |   Lunch   |
 |1pm - 5pm  |   Coding! |
 
