@@ -1,5 +1,10 @@
 # PyData Manipal Devsprints Jan 2020
-## Date and Venue - TBD
+
+### Date:   **19th January, 2020**
+### Venue:  **AB5-406**
+### Time:   **9AM - 5PM**
+
+Prerequisites: Please come with Git already installed.
 
 Has contributing to Open source projects been one of those plans for you that just remained a plan? Or did you try contributing to an Open source project but got lost somewhere in the middle due to lack of guidance? Well, Devsprints are here to save the day! During Devsprints, Mentors/Contributors of Open source projects guide participants through everything, from generating the development build to submitting a patch for a bug or improve the project's documentation.
 
@@ -10,8 +15,13 @@ https://www.digitalocean.com/community/tutorials/how-to-use-git-a-reference-guid
 https://rogerdudler.github.io/git-guide/
 
 ## Agenda
-Prerequisites: Please come with Git already installed.
-TBD
+|        Time       |    Event               |
+|---------------|-------------------|
+|9am - 9:45am  |Git basics         |
+|10am - 11am  | Session by Aman Sharma    |
+|11am - 12pm    | Choose an org, join mailing lists etc   |
+|12pm - 1pm |   Lunch   |
+|1pm - 5pm  |   Coding! |
 
 ## Suggested Organizations/Projects (in no particular order):
 
