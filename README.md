@@ -41,6 +41,5 @@ https://rogerdudler.github.io/git-guide/
 |Theano |https://github.com/Theano/Theano |http://deeplearning.net/software/theano/dev_start_guide.html
 |Zulip Chat | https://zulipchat.com/ | https://zulip.readthedocs.io/en/latest/overview/contributing.html| 
 |DVC    |https://dvc.org/   |https://dvc.org/doc/user-guide/contributing/core   |
-|GNU Mailman    |list.org   |https://mailman.readthedocs.io/en/latest/src/mailman/docs/contribute.html|
+|GNU Mailman    |https://list.org   |https://mailman.readthedocs.io/en/latest/src/mailman/docs/contribute.html|
 |mypy   |https://github.com/python/mypy |   https://github.com/python/mypy/blob/master/CONTRIBUTING.md|
- 
