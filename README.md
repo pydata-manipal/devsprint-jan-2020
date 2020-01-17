@@ -11,7 +11,7 @@ Has contributing to Open source projects been one of those plans for you that ju
 We will also be conducting a brief workshop on Git.
 Links we will refer to:
 https://www.digitalocean.com/community/tutorials/how-to-use-git-a-reference-guide
-
+		
 https://rogerdudler.github.io/git-guide/
 
 ## Agenda
@@ -37,6 +37,8 @@ https://rogerdudler.github.io/git-guide/
 |lenskit(rec system)  |https://lenskit.org/  | https://github.com/lenskit/lkpy
 |Submitty  | https://submitty.org/       | https://submitty.org/developer/how_to_contribute
 |NumPy  |https://numpy.org/     | https://docs.scipy.org/doc/numpy/dev/
+|TensorFlow         |https://www.tensorflow.org            | https://github.com/tensorflow/tensorflow/blob/master/CONTRIBUTING.md
+|Keras              |https://www.keras.io                  | https://github.com/keras-team/keras/blob/master/CONTRIBUTING.md
 |Redash | https://redash.io/    |https://github.com/getredash/redash/blob/master/CONTRIBUTING.md |
 |Theano |https://github.com/Theano/Theano |http://deeplearning.net/software/theano/dev_start_guide.html
 |Zulip Chat | https://zulipchat.com/ | https://zulip.readthedocs.io/en/latest/overview/contributing.html| 
