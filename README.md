@@ -46,3 +46,4 @@ https://rogerdudler.github.io/git-guide/
 |DVC    |https://dvc.org/   |https://dvc.org/doc/user-guide/contributing/core   |
 |GNU Mailman    |https://list.org   |https://mailman.readthedocs.io/en/latest/src/mailman/docs/contribute.html|
 |mypy   |https://github.com/python/mypy |   https://github.com/python/mypy/blob/master/CONTRIBUTING.md|
+|EinsteinPy |https://einsteinpy.org/    |https://github.com/einsteinpy/einsteinpy/blob/master/CONTRIBUTING.rst  |
