@@ -25,6 +25,8 @@ https://rogerdudler.github.io/git-guide/
 
 ## Suggested Organizations/Projects (in no particular order):
 
+Special mention: [Projects under  NumFOCUS](https://github.com/numfocus/gsoc/blob/master/2020/ideas-list.md) (sponsor of PyData Manipal)
+
 | Organization Name | Website                              | Contributing Guide                                                                                                   |
 |-------------------|--------------------------------------|----------------------------------------------------------------------------------------------------------------------|
 | Pandas            | https://github.com/pandas-dev/pandas | https://pandas-docs.github.io/pandas-docs-travis/development/contributing.html                                       |
