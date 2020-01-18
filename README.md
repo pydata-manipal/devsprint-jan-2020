@@ -37,6 +37,7 @@ https://rogerdudler.github.io/git-guide/
 |lenskit(rec system)  |https://lenskit.org/  | https://github.com/lenskit/lkpy
 |Submitty  | https://submitty.org/       | https://submitty.org/developer/how_to_contribute
 |NumPy  |https://numpy.org/     | https://docs.scipy.org/doc/numpy/dev/
+|AboutCode.org      |https://aboutcode.org/                |https://github.com/nexB/aboutcode/wiki/GSOC-2019
 |TensorFlow         |https://www.tensorflow.org            | https://github.com/tensorflow/tensorflow/blob/master/CONTRIBUTING.md
 |Keras              |https://www.keras.io                  | https://github.com/keras-team/keras/blob/master/CONTRIBUTING.md
 |Redash | https://redash.io/    |https://github.com/getredash/redash/blob/master/CONTRIBUTING.md |
