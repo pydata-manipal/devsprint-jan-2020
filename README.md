@@ -1,5 +1,8 @@
 # PyData Manipal Devsprints Jan 2020
 
+Jon us at meetup.com/pydata-manipal
+
+
 ### Date:   **19th January, 2020**
 ### Venue:  **AB5-406**
 ### Time:   **9AM - 5PM**
