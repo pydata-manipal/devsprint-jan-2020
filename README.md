@@ -1,4 +1,10 @@
-# PyData Manipal Devsprints Jan 2020
+# PyData Manipal Devsprints 2020
+
+# [DevSprint #2]()
+
+TBD
+
+# [DevSprint #1](https://www.meetup.com/PyData-Manipal/events/267969955/)(this meetup has concluded)
 
 ### Date:   **19th January, 2020**
 ### Venue:  **AB5-406**
